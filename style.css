@@ -1,0 +1,221 @@
+img.selfie {
+    width:750px;
+    float:left;
+    border:10px solid #2e5984;
+}
+
+
+h1 {
+    float:center;
+    font-size:30px;
+}
+
+.whoami {
+    padding:1px;
+    text-align:center;
+    background:#ede9e8;
+    font-size:20px;
+    color:gray;
+    font-family:Times;
+}
+
+.header {
+   padding:1px;
+    text-align:center;
+    background:#2e5984;
+    color:#ede9e8;
+    font-size:20px;
+    font-family:Georgia;
+}
+
+.divider {
+    padding:1px;
+    text-align:center;
+    background:#2e5984;
+    color:#ede9e8;
+    font-size:20px;
+    font-family:Georgia;
+}
+
+.buttons {
+    padding:3px;
+    background:#ede9e8;
+    font-family:Georgia;
+    font-size:30px;
+    text-align:center;
+    
+}
+
+.buttons2 {
+    padding:3px;
+    background:#ede9e8;
+    font-family:Georgia;
+    
+}
+
+
+.button1 {
+  background-color: #ede9e8; 
+  border: none;
+  color: gray;
+  padding: 25px 62px;
+  opacity:1;
+  transition:0.3s;
+  cursor:pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:Georgia;
+}
+
+
+.button1:hover {opacity: 0.6}
+
+.button2 {
+  background-color: #ede9e8; 
+  border: none;
+  color: gray;
+  padding: 25px 62px;
+  opacity:1;
+  transition:0.3s;
+  cursor:pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:Georgia;
+}
+
+
+.button2:hover {opacity: 0.6}
+
+
+.header2 {
+  padding: 30px;
+  text-align: center;
+  background: #2e5984;
+  color: #ede9e8;
+  font-size:20px;
+}
+
+
+
+img.nhs {
+    width:500px;
+    height:500px;
+    border:20px solid #2e5984;
+    float:left;
+}
+
+.header3 {
+padding: 15px;
+  text-align: left;
+  background: #ede9e8;
+  color:#2e5984 ;
+  font-size:15px;
+  text-align:center;
+}
+
+.academics {
+    width:100%;
+    background:#ede9e8;
+    color:#2e5984;
+    float:left;
+    font-size:25px;
+}
+
+h4 {
+    float:center;
+    text-align:center;
+    font-size:30px;
+    padding:30px;
+}
+
+contact {
+    padding:30px;
+    background:#ede9e8;
+    
+}
+
+.header4 {
+    padding:30px;
+    text-align:center;
+    background:#2e5984;
+    color:#ede9e8;
+}
+
+h5 {
+    text-align:center;
+    
+}
+
+.button4 {
+    
+    width:50%;
+    background-color: #2e5984; 
+  border: none;
+  color: white;
+  opacity:1;
+  transition:0.3s;
+  cursor:pointer;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:Georgia;
+  text-align:center;
+  font-size:30px;
+}
+
+.resume {
+    padding:20px;
+    text-align:center;
+    background:#2e5984;
+    color:#ede9e8;
+}
+
+
+.button4:hover {opacity: 0.6}
+
+.resumelink {
+    width:100%;
+    height:100%;
+    text-align:center;
+}
+
+h7 {
+    padding:20px;
+    text-align:center;
+    background:#2e5984;
+    color:#ede9e8;
+}
+
+.services {
+    width:100%;
+    background:#ede9e8;
+    color:#2e5984;
+    float:left;
+    font-size:5px;
+}
+
+h10 {
+    text-align:center;
+    font-size:25px;
+    float:middle;
+}
+
+h11 {
+    padding:20px;
+    background:#ede9e8;
+    color:#2e5984;
+}
+
+.sciencefairproject {
+    width:400px;
+    height:400px;
+}
+
+h12 {
+    padding:20px;
+    width:50px;
+    background:#ede9e8;
+    color:#2e5984;
+}
