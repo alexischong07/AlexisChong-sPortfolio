@@ -219,3 +219,15 @@ h12 {
     background:#ede9e8;
     color:#2e5984;
 }
+
+.hobbiesheader {
+    padding:5px;
+    background:#2e5984;
+    color:#ede9e8;
+}
+
+.hobbies {
+    text-align:center;
+    float:center;
+    padding:11px;
+}
