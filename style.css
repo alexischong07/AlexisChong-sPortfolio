@@ -231,3 +231,15 @@ h12 {
     float:center;
     padding:11px;
 }
+
+.dividercontact {
+     padding:20px;
+    text-align:center;
+    background:#2e5984;
+    color:#ede9e8;
+    font-size:20px;
+    font-family:Georgia;
+}
+
+ul.services {
+    font-weight:bold;
